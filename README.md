@@ -19,10 +19,10 @@ be found in `spec/features`. Both tests should be passing to complete the lab.
 
 ## Instructions
 
-- Run `bundle install` from your terminal
+# - Run `bundle install` from your terminal
 
-- Create a controller for students and have it inherit from
-  ApplicationController
+# - Create a controller for students and have it inherit from
+#  ApplicationController
   
 - Create a route for the path `/students` that maps to a StudentsController `index` action.
 
